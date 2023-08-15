@@ -1,0 +1,12 @@
+name: knapsack
+inst_name: knapsack
+n_objs: 4
+n_vars: 50
+size: ${problem.n_objs}_${problem.n_vars}
+n_max_vars: ${problem.n_vars}
+n_max_objs: ${problem.n_objs}
+n_features: 37
+n_weights: 7
+acronym: kp
+id: 1
+preprocess: 0

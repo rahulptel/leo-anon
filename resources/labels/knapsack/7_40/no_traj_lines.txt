@@ -1,0 +1,2 @@
+/home/rahul/Documents/PhD/projects/multiobjective-bdd-vo/resources/smac_output/knapsack/iinc_min_weight/7_40/val/kp_7_7_40_1028/run_470
+/home/rahul/Documents/PhD/projects/multiobjective-bdd-vo/resources/smac_output/knapsack/iinc_min_weight/7_40/train/kp_7_7_40_501/run_3345
